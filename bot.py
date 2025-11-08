@@ -6,7 +6,7 @@ from telegram.ext import (
 )
 
 # 🔑 Dán token thật của bot bạn vào đây
-BOT_TOKEN = "8464821991:AAH_I1TAmNana3A6e4-wTw45QxMfWvIQpj4"
+BOT_TOKEN = "8464821991:AAHXkTKp9XhPltxfaDSSladUQ82dMG6LQTw"
 
 # 👤 ID Telegram của bạn
 OWNER_ID = 5523799948
